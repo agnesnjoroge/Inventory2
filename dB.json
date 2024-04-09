@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "3ce2",
+      "name": "Cookies",
+      "price": "26",
+      "type": "Snack",
+      "brand": "Chuchu"
+    },
+    {
+      "id": "ac5c",
+      "name": "Biscuits ",
+      "price": "2.6",
+      "type": "Round",
+      "brand": "Manji"
+    },
+    {
+      "id": "980c",
+      "name": "Book",
+      "price": "7.0",
+      "type": "Drawing",
+      "brand": "Kasuku"
+    }
+  ]
+}
